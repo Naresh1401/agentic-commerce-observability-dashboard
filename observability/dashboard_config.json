@@ -1,0 +1,13 @@
+{
+  "cards": [
+    "request_count",
+    "avg_api_latency_ms",
+    "tool_call_success_rate",
+    "orders_placed"
+  ],
+  "charts": [
+    "latency",
+    "events",
+    "tool_outcomes"
+  ]
+}

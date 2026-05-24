@@ -1,0 +1,16 @@
+{
+  "request_count": 42,
+  "avg_api_latency_ms": 18.4,
+  "p95_api_latency_ms": 44.9,
+  "tool_call_success_rate": 98.2,
+  "failed_tool_calls": 1,
+  "checkout_sessions_created": 3,
+  "orders_placed": 2,
+  "payment_declined_count": 1,
+  "prompt_injection_attempts": 2,
+  "rbac_denied_count": 1,
+  "cache_hit_rate": 82.0,
+  "simulated_token_usage": 2840,
+  "simulated_llm_cost": 0.0057,
+  "fallback_count": 0
+}

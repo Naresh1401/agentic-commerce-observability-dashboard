@@ -1,0 +1,11 @@
+[
+  {
+    "trace_id": "req_demo",
+    "span_id": "span_00001",
+    "name": "POST /agent/capstone",
+    "attributes": {
+      "latency_ms": 42.3,
+      "status_code": 200
+    }
+  }
+]
